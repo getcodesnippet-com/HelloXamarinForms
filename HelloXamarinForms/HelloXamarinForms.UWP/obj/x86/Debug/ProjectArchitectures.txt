@@ -1,0 +1,2 @@
+E:\Projects\XamarinForms\HelloXamarinForms\HelloXamarinForms\HelloXamarinForms.UWP\HelloXamarinForms.UWP.csproj;x86
+E:\Projects\XamarinForms\HelloXamarinForms\HelloXamarinForms\HelloXamarinForms\HelloXamarinForms.csproj;neutral
